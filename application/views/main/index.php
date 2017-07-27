@@ -4,8 +4,8 @@
           <div class="fade2"></div>
           <div class="intro-i">
             <div class="intro-description">
-              <h1 class="intro-heading">The most <span>powerful</span> dashboard template</h1>
-              <div class="intro-text">Gone studies to titles have audiences of and concepts was motivator, the this more picture a to we ever the taken have brilliant.</div>
+              <h1 class="intro-heading">Manual <span>powerful</span> BankPullTransaction</h1>
+              <div class="intro-text">ตัวระบบนี้ทางทีมงานจะอัพเดตให้ฟรีตลอดการใช้งาน หากต้องการ function หรือเมนูอะไรเพิ่มเติมสามารถติดต่อสอบถามทางเจ้าหน้าที่ได้ในส่วนนี้ถ้านอกเหนือจากแนวทางของเราอาจจะต้องมีค่าใช้จ่ายแล้วแต่กรณีไป</div>
               <div class="intro-buttons"><a class="btn btn-primary" href="<?=base_url();?>" target="_blank"><i class="os-icon os-icon-social-09"></i><span>Live Demo</span></a><a class="btn btn-link" href="<?=base_url();?>" target="_blank"><i class="os-icon os-icon-finance-28"></i><span>Purchase</span><span class="highlight">$35</span></a></div>
             </div>
             <div class="intro-media">
